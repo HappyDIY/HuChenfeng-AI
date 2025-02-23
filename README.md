@@ -1,9 +1,4 @@
 # 户晨风AI 正式发布
-
-<div align="center">
-  <img src="https://example.com/logo.png" width="200" alt="户晨风AI Logo">
-</div>
-
 ## 🌟 核心特性
 - **永久免费**：面向个人/企业用户的全场景免费服务
 - **双核驱动**：VITS声音模型 + DeepSeek R1大语言模型
@@ -78,48 +73,6 @@ F --> G[高保真输出]
 4. **企业知识管家**
    - 私有知识库接入
    - 自动会议纪要
-
-<style>
-.button {
-  display: inline-block;
-  padding: 12px 24px;
-  margin: 10px;
-  border-radius: 25px;
-  font-weight: bold;
-  text-decoration: none;
-  transition: transform 0.3s ease;
-}
-
-.button.green {
-  background: linear-gradient(135deg, #00C853, #64DD17);
-  color: white;
-}
-
-.button.blue {
-  background: linear-gradient(135deg, #2962FF, #448AFF);
-  color: white;
-}
-
-.button:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 5px 15px rgba(0,0,0,0.2);
-}
-
-.features {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 20px;
-  justify-content: center;
-}
-
-.feature {
-  flex: 1;
-  min-width: 300px;
-  padding: 20px;
-  background: #f8f9fa;
-  border-radius: 10px;
-  text-align: center;
-}
 
 .feature i {
   font-size: 2.5em;
